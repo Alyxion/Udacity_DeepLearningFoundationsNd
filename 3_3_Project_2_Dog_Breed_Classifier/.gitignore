@@ -2,3 +2,5 @@ dogImages
 DogVGG16Data.npz
 .ipynb_checkpoints
 lfw
+*.zip
+/dog_app.html
