@@ -1,0 +1,3 @@
+.ipynb_checkpoints
+*.hdf5
+.DS_Store
