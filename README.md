@@ -9,9 +9,12 @@ In this repository you can find my results of all projects and relevant exercise
 **Important note:**
 
 If not noted otherwise the originals of all source and data files provided here are Copyright (C) Udacity.
-For more details visit www.udacity.com
+For more details visit
+- http://www.udacity.com
+- https://github.com/udacity/deep-learning
+- https://github.com/udacity/deep-learning/blob/master/LICENSE
 
-Please do neither copy nor clone any of these files and majorly with respect to Udacity's honor code do not use any of the solutions provided here in any of your rated projects.
+Please use these files with respect to Udacity's honor code, to the copyright holders and do not claim them as your own.
 
 You are of course welcome to learn from the files provided here and even more welcome to let me know if you are a student of the DLF Nanodegree as well and have improvement ideas for the tougher projects. :) 
 
