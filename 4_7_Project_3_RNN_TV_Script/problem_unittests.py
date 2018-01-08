@@ -236,8 +236,9 @@ def test_build_rnn(build_rnn):
         # Check shape
         assert outputs.get_shape().as_list() == [None, None, test_rnn_size],\
             'Outputs has wrong shape.  Found shape {}'.format(outputs.get_shape())
-        assert final_state.get_shape().as_list() == [test_rnn_layer_size, 2, None, test_rnn_size],\
-            'Final state wrong shape.  Found shape {}'.format(final_state.get_shape())
+        awaited_shape = [test_rnn_layer_size, 2, None, test_rnn_size]
+        assert final_state.get_shape().as_list() == awaited_shape,\
+            'Final state wrong shape {}.  Found shape {}'.format(awaited_shape, final_state.get_shape())
 
     _print_success_message()
 
