@@ -30,7 +30,7 @@ The nanodegree was subdivided into the following chapters:
 2. Neural Networks
 3. Convolutional Networks
 4. Recurrent Networks
-5. Generative Adversial Networks
+5. Generative Adversarial Networks
 6. Deep Reinforcement Learning
 
 ---
