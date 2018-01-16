@@ -39,7 +39,20 @@ The nanodegree was subdivided into the following chapters:
 
 The following rated projects were part of this nanodegree:
 
-1. **Predicting Bike Sharing Data**
+1. **Revenue prediciton using Deep Learning - Predicting Bike Sharing Data**
+    - ![](images/project_1.png)
     - [Source](2_1_Project_1_FirstNeuralNetwork/Your_first_neural_network.ipynb)
-2. **Dog Breed Classifier**
+2. **Convolutional Neural Network for object classification - Dog Breed Classifier**
+    - ![](images/project_2.png)
     - [Source](3_3_Project_2_Dog_Breed_Classifier/dog_app.ipynb)
+3. **Recurrent Neural Network - Generating a TV Script**
+    - ![](images/project_3.png)
+    - [Source](4_7_Project_3_RNN_TV_Script/dlnd_tv_script_generation.ipynb)
+4. **Generative Adversarial Network - Generate generic faces using Deep Convolutional GANs**
+    - **Original samples**: 
+        - ![](images/project_4a.png)
+    - **Generated samples**:
+        - ![](images/project_4b.png)
+    - [Source](5_3_Project_4_Face_Generation/dlnd_face_generation.ipynb)
+5. **Deep Reinforcement Learning - Let a quadrocopter learn how to fly**
+    - In progress
