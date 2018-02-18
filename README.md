@@ -1,7 +1,7 @@
 ![](DLF.png)
 ![](images/DLF_Nanodegree.png)
 
-![](6_12_Project_5_Capstone_Quadcopter/quad_controller_rl/notebooks/videos/Hovering.gif)
+<img src="6_12_Project_5_Capstone_Quadcopter/quad_controller_rl/notebooks/videos/Hovering.gif" width=400 height=300>
 
 ---
 
@@ -57,6 +57,6 @@ The following rated projects were part of this nanodegree:
     - **Generated samples**:
         - ![](images/project_4b.png)
     - [Source](5_3_Project_4_Face_Generation/dlnd_face_generation.ipynb)
-5. **Deep Reinforcement Learning - Let a quadrocopter learn how to fly**
-    - ![](6_12_Project_5_Capstone_Quadcopter/quad_controller_rl/notebooks/videos/Combined.gif)
+5. **Deep Reinforcement Learning - Teach a quadcopter how to fly**
+    - <img src="6_12_Project_5_Capstone_Quadcopter/quad_controller_rl/notebooks/videos/Combined.gif" width=400 height=300>
     - [Source](6_12_Project_5_Capstone_Quadcopter/quad_controller_rl/)
